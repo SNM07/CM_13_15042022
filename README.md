@@ -59,11 +59,11 @@ Once you run the `populate-db` script, you should have two users in your databas
 - Email: `steve@rogers.com`,
 - Password: `password456`
 
-### Installing and launching front-end
+## Installing and launching front-end
 
- Move to this folder: `cd argentbank`
- Install dependencies: `npm install`
- Launch front-end on port 3000: `npm start`
+ 1. Move to this folder: `cd argentbank`
+ 1. Install dependencies: `npm install`
+ 1. Launch front-end on port 3000: `npm start`
 
 ## API Documentation
 
