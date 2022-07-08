@@ -1,4 +1,4 @@
-# Project #10 - Argent Bank API
+# Project #13 - Argent Bank API
 
 This codebase contains the code needed to run the backend for Argent Bank.
 
@@ -58,6 +58,12 @@ Once you run the `populate-db` script, you should have two users in your databas
 - Last Name: `Rogers`,
 - Email: `steve@rogers.com`,
 - Password: `password456`
+
+### Installing and launching front-end
+
+ Move to this folder: `cd argentbank`
+ Install dependencies: `npm install`
+ Launch front-end on port 3000: `npm start`
 
 ## API Documentation
 
